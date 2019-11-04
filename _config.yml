@@ -1,11 +1,11 @@
 # Site settings
 author: Collin Jilbert
-title: 
+title: Collin's Full Stack Student Blog
 header-img: img/home-bg.png
 email: cjilbert504@gmail.com
 copyright_name: Collin Jilbert
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to code at Flatiron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cjilbert504
