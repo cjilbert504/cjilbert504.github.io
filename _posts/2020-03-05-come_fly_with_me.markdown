@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Come Fly With Me..."
-date:       2020-03-06 00:05:28 +0000
+date:       2020-03-05 19:05:29 -0500
 permalink:  come_fly_with_me
 ---
 
@@ -12,6 +12,6 @@ And so one is reminded that the inevitable fact remains that the ebb and flow of
 
 Following this exuberance, I immediately reached out to my inner circle of fellow Flatiron students, aka the squad (look for us on Learn for our late night after hours study group sessions appropriately named something along the lines of 11/4 PT Squad 1.0, come say hi!) to share my experience with and remind them that they will most likely feel that same feeling and that when they do, remind themselves of my story to them. 
 
-The Sinatra portfolio project was the best learning experience thus far and I am looking forward to my assessment and lending a helping hand to my fellow students if I am able to and help to push them through any and all barriers. Sinatra has reminded me to always stay positive and know that with determination and a burning desire to achieve my goals, I, just like anyone else, can do it.
+The Sinatra portfolio project was the best learning experience thus far and I am looking forward to my assessment and lending a helping hand to my fellow students if I am able to and help to push them through any and all barriers. Sinatra has reminded me to always stay positive and know that with determination and a burning desire to achieve my goals, I, just like anyone else, can do it. 
  
 
